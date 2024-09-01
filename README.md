@@ -20,4 +20,5 @@ Para configurar el proyecto en tu entorno local, sigue estos pasos:
 1. **Clonar el repositorio**:
    ```bash
  
+
    git clone https://github.com/percyzavala2000/tu-repositorio.git
