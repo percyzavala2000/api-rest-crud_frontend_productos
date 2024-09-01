@@ -21,4 +21,4 @@ Para configurar el proyecto en tu entorno local, sigue estos pasos:
    ```bash
  
 
-   git clone https://github.com/percyzavala2000/tu-repositorio.git
+   git clone https://github.com/percyzavala2000/api-rest-crud_frontend_productos.git
